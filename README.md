@@ -10,11 +10,11 @@
 
 <p align="center">
   <!-- Transgender flag bar -->
-  <img src="https://img.shields.io/badge/%20-%20-5BCEFA?style=for-the-badge&labelColor=5BCEFA" height="8" width="120" />
-  <img src="https://img.shields.io/badge/%20-%20-F5A9B8?style=for-the-badge&labelColor=F5A9B8" height="8" width="120" />
-  <img src="https://img.shields.io/badge/%20-%20-FFFFFF?style=for-the-badge&labelColor=FFFFFF" height="8" width="120" />
-  <img src="https://img.shields.io/badge/%20-%20-F5A9B8?style=for-the-badge&labelColor=F5A9B8" height="8" width="120" />
-  <img src="https://img.shields.io/badge/%20-%20-5BCEFA?style=for-the-badge&labelColor=5BCEFA" height="8" width="120" />
+  <img src="https://img.shields.io/badge/%20-%20-5BCEFA?style=for-the-badge&labelColor=5BCEFA" height="12" width="120" />
+  <img src="https://img.shields.io/badge/%20-%20-F5A9B8?style=for-the-badge&labelColor=F5A9B8" height="12" width="120" />
+  <img src="https://img.shields.io/badge/%20-%20-FFFFFF?style=for-the-badge&labelColor=FFFFFF" height="12" width="120" />
+  <img src="https://img.shields.io/badge/%20-%20-F5A9B8?style=for-the-badge&labelColor=F5A9B8" height="12" width="120" />
+  <img src="https://img.shields.io/badge/%20-%20-5BCEFA?style=for-the-badge&labelColor=5BCEFA" height="12" width="120" />
 </p>
 
 <p align="center">
@@ -155,13 +155,14 @@
 
 <p align="center">
   <!-- Trans flag footer -->
-  <img src="https://img.shields.io/badge/%20-%20-5BCEFA?style=for-the-badge&labelColor=5BCEFA" height="8" width="120" />
-  <img src="https://img.shields.io/badge/%20-%20-F5A9B8?style=for-the-badge&labelColor=F5A9B8" height="8" width="120" />
-  <img src="https://img.shields.io/badge/%20-%20-FFFFFF?style=for-the-badge&labelColor=FFFFFF" height="8" width="120" />
-  <img src="https://img.shields.io/badge/%20-%20-F5A9B8?style=for-the-badge&labelColor=F5A9B8" height="8" width="120" />
-  <img src="https://img.shields.io/badge/%20-%20-5BCEFA?style=for-the-badge&labelColor=5BCEFA" height="8" width="120" />
+  <img src="https://img.shields.io/badge/%20-%20-5BCEFA?style=for-the-badge&labelColor=5BCEFA" height="12" width="120" />
+  <img src="https://img.shields.io/badge/%20-%20-F5A9B8?style=for-the-badge&labelColor=F5A9B8" height="12" width="120" />
+  <img src="https://img.shields.io/badge/%20-%20-FFFFFF?style=for-the-badge&labelColor=FFFFFF" height="12" width="120" />
+  <img src="https://img.shields.io/badge/%20-%20-F5A9B8?style=for-the-badge&labelColor=F5A9B8" height="12" width="120" />
+  <img src="https://img.shields.io/badge/%20-%20-5BCEFA?style=for-the-badge&labelColor=5BCEFA" height="12" width="120" />
 </p>
 
 <p align="center">
-  <i>Trans rights are human rights 🏳️‍⚧️</i>
+  <i>Trans rights are human rights 🏳️‍⚧️</i><br>
+  <i>Keep slaying!</i>
 </p>
