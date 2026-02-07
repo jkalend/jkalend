@@ -18,6 +18,7 @@
 </p>
 
 <p align="center">
+  <a href="https://jkalend.github.io/"><img src="https://img.shields.io/badge/Portfolio-5BCEFA?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:jkalend@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/jkalend"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/jkalend"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
