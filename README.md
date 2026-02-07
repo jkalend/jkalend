@@ -25,25 +25,17 @@
 
 ---
 
-### 🏳️‍⚧️ About Me
+### About Me
 
-```yaml
-name: Andrea Kalenda
-location: Brno, Czech Republic
-pronouns: she/her
-education:
-  current: MSc in Supercomputing @ Brno University of Technology
-  exchange: Seoul National University of Science and Technology (ML focus)
-  bachelor: BSc in Information Technology @ BUT FIT
-languages:
-  human: [Czech 🇨🇿 (native), English 🇬🇧 (fluent), Spanish 🇪🇸 (basics), Korean 🇰🇷 (basics)]
-  machine: [Python, C++, C, Go, TypeScript]
-interests: [Deep Learning, EEG Signal Processing, Supercomputing, Blockchain, DevOps]
-fun_facts:
-  - Former archer 🏹 (2019-2023)
-  - Studied abroad in Seoul 🇰🇷
-  - Survived a cybersecurity attack simulation as SOC analyst
-```
+*she/her* · Brno, Czech Republic 🇨🇿
+
+- 🎓 Pursuing an **MSc in Supercomputing** @ Brno University of Technology
+- 🎓 **BSc in Information Technology** @ BUT FIT — thesis on detecting digital addiction from brain signals
+- 🇰🇷 Exchange semester at **Seoul National University of Science and Technology** — focused on machine learning
+- 🧠 Into **Deep Learning**, **EEG Signal Processing**, **Supercomputing**, and **DevOps**
+- 🌍 Speaks 🇨🇿 Czech (native), 🇬🇧 English (fluent), 🇪🇸 Spanish (basics) & 🇰🇷 Korean (basics)
+- 🏹 Former archer (2019–2023)
+- 🛡️ Survived a real-time cybersecurity attack simulation as a SOC analyst
 
 ---
 
@@ -58,7 +50,7 @@ fun_facts:
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=swi-prolog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 </details>
 
@@ -131,12 +123,18 @@ fun_facts:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jkalend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCEFA&icon_color=F5A9B8&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=jkalend&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCEFA&fire=F5A9B8&currStreakLabel=FFFFFF" />
+  <a href="https://github.com/jkalend">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jkalend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCEFA&icon_color=F5A9B8&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/jkalend">
+    <img width="49%" src="https://streak-stats.demolab.com?user=jkalend&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCEFA&fire=F5A9B8&currStreakLabel=FFFFFF" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkalend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCEFA&text_color=FFFFFF" />
+  <a href="https://github.com/jkalend">
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jkalend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCEFA&text_color=FFFFFF" />
+  </a>
 </p>
 
 ---
