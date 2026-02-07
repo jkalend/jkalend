@@ -47,9 +47,7 @@
 
 ## 🌟 Featured Projects
 
-Check out my repositories to see what I've been working on! 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jkalend&repo=jkalend&theme=radical&hide_border=true)](https://github.com/jkalend/jkalend)
+Check out my repositories to see what I've been working on!
 
 ## 📫 Let's Connect
 
@@ -67,8 +65,6 @@ Check out my repositories to see what I've been working on!
 <div align="center">
   
 ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-![Snake animation](https://raw.githubusercontent.com/jkalend/jkalend/output/github-contribution-grid-snake.svg)
 
 **Thanks for visiting! Feel free to reach out and connect. Let's build something amazing together! 🚀**
 
