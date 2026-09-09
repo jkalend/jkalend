@@ -128,7 +128,7 @@
 
 <p align="center">
   <a href="https://github.com/jkalend">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jkalend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCEFA&icon_color=F5A9B8&text_color=FFFFFF" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jkalend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCEFA&icon_color=F5A9B8&text_color=FFFFFF" />
   </a>
   <a href="https://github.com/jkalend">
     <img width="49%" src="https://streak-stats.vercel.app?user=jkalend&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCEFA&fire=F5A9B8&currStreakLabel=FFFFFF" />
@@ -137,7 +137,7 @@
 
 <p align="center">
   <a href="https://github.com/jkalend">
-    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jkalend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCEFA&text_color=FFFFFF" />
+    <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jkalend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCEFA&text_color=FFFFFF" />
   </a>
 </p>
 
