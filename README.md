@@ -33,7 +33,7 @@
 
 *she/her* · Brno, Czech Republic 🇨🇿
 
-- 🎓 Pursuing an **MSc in Supercomputing** @ Brno University of Technology
+<!-- - 🎓 Pursuing an **MSc in Supercomputing** @ Brno University of Technology -->
 - 🎓 **BSc in Information Technology** @ BUT FIT — thesis on detecting digital addiction from brain signals
 - 🇰🇷 Exchange semester at **Seoul National University of Science and Technology** — focused on machine learning
 - 🧠 Into **Deep Learning**, **EEG Signal Processing**, **Supercomputing**, and **DevOps**
