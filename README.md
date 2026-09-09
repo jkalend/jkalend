@@ -145,6 +145,11 @@
 
 ### 🏢 Experience
 
+**Scanning Engine Developer Intern** @ [Gen Digital](https://www.gendigital.com/) *(Jul 2026 - Sep 2026)*
+> - Developed detection for obfuscated Windows batch scripts, strengthening identification of evasive command-based threats.
+> - Built a `cmd.exe` emulator to safely reproduce Windows command-shell behavior and improve malware analysis coverage.
+> - Collaborated with engineering and DevOps teams to integrate detection capabilities and streamline analysis workflows.
+
 **Associate Software Test Engineer** @ [SolarWinds](https://www.solarwinds.com/) *(Oct 2022 - Sep 2024)*
 > Built and maintained Python + Selenium automation frameworks, wrangled CI/CD pipelines, and kept a Slack bot alive. Collaborated across teams to make testing not suck.
 
